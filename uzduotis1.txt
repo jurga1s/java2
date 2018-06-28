@@ -1,4 +1,6 @@
 Per paskaitas mano nuotaika:
   nuotaikinga
+  šmaikšti
   linksma
+  atsakinga
   liudna
